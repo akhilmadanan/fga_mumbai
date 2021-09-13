@@ -30,6 +30,9 @@ ol, ul {
   list-style: none;
 }
 
+.small-font {
+  font-size: 16px;
+}
 figure {
   margin: 0;
 }
