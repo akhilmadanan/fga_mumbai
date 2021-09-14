@@ -537,7 +537,7 @@ a:focus, a:hover {
   }
   .navigation .logo-default-mobile {
     display: block;
-    width: 50%;
+    width: 100%;
   }
   .sticky-header .logo-white {
     display: none !important;
