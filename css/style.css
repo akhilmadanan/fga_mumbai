@@ -391,6 +391,7 @@ a:focus, a:hover {
 .logo {
   margin-top: 10px;
   display: inline-block;
+  width: 27%;
 }
 
 .single-page-header {
